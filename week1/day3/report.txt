@@ -1,0 +1,2 @@
+Solar kwh days: [5.2, 4.8, 5.3, 5.1, 4.95]
+Demand stats : min=35.2, max=64.2, avg=51.48
